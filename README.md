@@ -99,15 +99,5 @@ ResumeAI/
 └─ resumes/                    # Drop PDF resumes here for CLI
 ```
 
-## Future Improvements
 
-- Add caching for resume embeddings to avoid repeated API calls.
-- Improve PDF extraction (OCR fallback for scanned PDFs).
-- Add configurable weighting for skills, experience, and education.
-- Export ranked results to CSV or ATS-friendly format.
-- Add role-based templates for different hiring needs (engineering, design, sales).
 
----
-
-If you'd like, I can also add a CI job, example PDFs for demo, or an export
-feature to integrate with applicant tracking systems.
